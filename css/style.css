@@ -1,0 +1,26 @@
+
+#Card_goods{
+	max-width: 1200px;
+}
+	
+
+
+ .Card_one {
+    border: 1px solid red;
+    margin: 2px;
+    float: left;
+    text-align: center;
+}
+
+.Card_one button {
+   color:blue; 
+}
+
+.minus,.plus{
+  text-align:center; 
+  border: 2px solid green;
+}
+
+
+	
+

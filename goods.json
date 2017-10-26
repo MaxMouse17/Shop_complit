@@ -1,0 +1,23 @@
+{
+"1":{ "name":"Ёжик" , 
+      "cost": 1300,
+      "image":"img/hedgehog.jpg" 
+    },
+"2":{  "name":"Крокодил Гена" , 
+       "cost": 1000,
+       "image":"img/gen.jpg"
+
+    },
+"3":{  "name":"Гомер зомби" , 
+       "cost": 920,
+       "image":"img/homer.jpg"
+    },
+"4":{  "name":"Мардж зомби" , 
+       "cost": 920,
+       "image":"img/marge.jpg"
+    },
+"5":{  "name":"Кукла" , 
+       "cost": 5999,
+       "image":"img/doll.jpg"
+    }
+}
